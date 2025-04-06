@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoDengueRelatorio.Dominio", "..\..\..\Downloads\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio.Dominio\InfoDengueRelatorio.Dominio.csproj", "{9B54AF85-ED3D-4814-142A-E4F96CC0AA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoDengueRelatorio.Dominio.Servicos", "..\..\..\Downloads\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio.Dominio.Servicos\InfoDengueRelatorio.Dominio.Servicos.csproj", "{D8B80B0D-BD26-4A59-2EF6-7E7C960C38F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoDengueRelatorio.Dominio.Mediador", "..\..\..\Downloads\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio.Dominio.Mediador\InfoDengueRelatorio.Dominio.Mediador.csproj", "{A2253BAA-D2D6-53DD-82D7-EC7FA072A991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoDengueRelatorio.Infra", "..\..\..\Downloads\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio.Infra\InfoDengueRelatorio.Infra.csproj", "{484243C2-F866-103F-11F7-65F1DA5DFB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoDengue.WebApi", "..\..\..\Downloads\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengueRelatorio.WebApi\InfoDengue.WebApi.csproj", "{9F84D589-5682-4053-5F0C-4E22873194C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoDengueRelatorio.Cliente", "..\..\..\Downloads\InfoDengueRelatorio\InfoDengueRelatorio\InfoDengue.Cliente\InfoDengueRelatorio.Cliente.csproj", "{DF8E72CA-983C-F63B-547C-B201D61658A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B54AF85-ED3D-4814-142A-E4F96CC0AA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B54AF85-ED3D-4814-142A-E4F96CC0AA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B54AF85-ED3D-4814-142A-E4F96CC0AA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B54AF85-ED3D-4814-142A-E4F96CC0AA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B80B0D-BD26-4A59-2EF6-7E7C960C38F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B80B0D-BD26-4A59-2EF6-7E7C960C38F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B80B0D-BD26-4A59-2EF6-7E7C960C38F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B80B0D-BD26-4A59-2EF6-7E7C960C38F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2253BAA-D2D6-53DD-82D7-EC7FA072A991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2253BAA-D2D6-53DD-82D7-EC7FA072A991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2253BAA-D2D6-53DD-82D7-EC7FA072A991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2253BAA-D2D6-53DD-82D7-EC7FA072A991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484243C2-F866-103F-11F7-65F1DA5DFB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484243C2-F866-103F-11F7-65F1DA5DFB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484243C2-F866-103F-11F7-65F1DA5DFB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484243C2-F866-103F-11F7-65F1DA5DFB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F84D589-5682-4053-5F0C-4E22873194C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F84D589-5682-4053-5F0C-4E22873194C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F84D589-5682-4053-5F0C-4E22873194C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F84D589-5682-4053-5F0C-4E22873194C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8E72CA-983C-F63B-547C-B201D61658A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8E72CA-983C-F63B-547C-B201D61658A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8E72CA-983C-F63B-547C-B201D61658A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8E72CA-983C-F63B-547C-B201D61658A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {054995C0-4E6D-4ABB-A1ED-AACBF849C80E}
+	EndGlobalSection
+EndGlobal
