@@ -33,6 +33,13 @@ Este projeto é uma API em ASP.NET Core 8 que consulta e armazena dados epidemio
    ```bash
    dotnet ef database update
    ```
+4. **Dump do Banco de Dados:**
+
+O projeto inclui um arquivo com o script de criação do banco utilizado.
+
+📄 Arquivo: [`script.ipynb`](./database/script.ipynb)
+
+> Obs.: Caso prefira, é possível apenas rodar as migrations.
 
 ---
 
